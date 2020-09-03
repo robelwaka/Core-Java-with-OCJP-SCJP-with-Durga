@@ -1,2 +1,2 @@
-# Core-Java-with-OCJP_SCJP-
+# Core Java with OCJP SCJP
 Java programming 
